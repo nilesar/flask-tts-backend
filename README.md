@@ -1,6 +1,6 @@
 # 🔊 Flask TTS Backend
 
-**Flask TTS Backend** is a simple, lightweight Text-to-Speech API built using Python and Flask. It allows users to send text input in multiple languages and receive natural-sounding speech audio in return. This project is my **contribution to the Information Retrieval (IR) Lab**, aiming to combine natural language processing with practical web deployment to make TTS easily accessible and integrable with applications.
+**Flask TTS Backend** is a simple, lightweight Text-to-Speech API built using Python and Flask. It allows users to send text input in multiple languages and receive natural-sounding speech audio in return. This project is my **contribution to the Information Retrieval (IR) Lab(IIT)BHUVARANASI**, in their kids_magazine Android-Application.
 
 ---
 
